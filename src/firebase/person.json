@@ -1,0 +1,8 @@
+{
+    "name":"demis",
+    "lastname":"rincon",
+    "likedDogs":[
+        "perro1",
+        "perro2"
+    ]
+}
